@@ -2,7 +2,7 @@
 ## My name is Allan.
 
 Sou um entusiasta no inglês apredendo com várias ferramentas no menor tempo possível.
-Graduado em técnologia da Informação e Graduado em Engenharia de computação.
+Graduado em Técnologia da Informação e Graduado em Engenharia de computação.
 
 - Tenho alguns projetinhos já desenvolvidos com a plataforma arduino como um sistema de monitoramento de variáveis climáticas, controle de portas, sistema de acionamento por presença, dentre outros projetos também desenvolvidos, ainda alguns projetos como de controle de braço robótico utilizando o arduino.
 
@@ -23,8 +23,8 @@ Graduado em técnologia da Informação e Graduado em Engenharia de computação
 
 <div>
 <a href="https://github.com/Allan-Santos12">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allan-Santos12&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Allan-Santos12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 📫 Como entrar em contato comigo:
